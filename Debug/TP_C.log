@@ -1,0 +1,14 @@
+﻿  TP_C.cpp
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(51,10): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'float *'
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(54,9): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(55,9): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(134,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(150,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(247,7): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(248,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(250,27): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(250,48): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(250,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(252,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\PC\Desktop\DevC\TP_C\TP_C.cpp(262): warning C4715: 'rtbis' : les chemins de contrôle ne retournent pas tous une valeur
+  TP_C.vcxproj -> C:\Users\PC\Desktop\DevC\TP_C\Debug\TP_C.exe

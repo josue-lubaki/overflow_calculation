@@ -1,0 +1,3 @@
+﻿  TP_C.cpp
+D:\DevC\TP_C\fonctions.cpp(185): warning C4715: 'rtbis' : les chemins de contrôle ne retournent pas tous une valeur
+  TP_C.vcxproj -> D:\DevC\TP_C\x64\Debug\TP_C.exe
